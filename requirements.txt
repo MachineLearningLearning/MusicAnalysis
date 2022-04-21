@@ -1,0 +1,6 @@
+librosa
+audiomentations
+numpy
+matplotlib
+tqdm
+sklearn
