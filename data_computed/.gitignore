@@ -1,4 +1,4 @@
-# ignore data folder's contents
+# ignore computed data folder's contents
 # see https://stackoverflow.com/a/5581995
 ../data/pop
 */
